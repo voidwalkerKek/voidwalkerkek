@@ -2,18 +2,15 @@
 
 # Hi there, I'm Dank-del <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del)                                                                                                                  
-- Some of my works include [EsseX](https://github.com/Dank-del/EsseX), [Chizuru](https://github.com/Dank-del/Chizuru) ...
-- I’m currently learning [Python](https://python.org) and [C#](https://github.com/dotnet/csharplang)
-- Stuff I like: Anime, Manga, Music and Video Production.
+- I'm still learning ...
+- I’m currently learning [Python](https://python.org).
+- Things I like: Anime, Manga, Music.
 
-![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dank_as_fuck)
-![Gmail Badge](https://img.shields.io/badge/-chizuru@kanojo.tk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chizuru@kanojo.tk)
+![Telegram Badge](https://img.shields.io/badge/-VoidWalker-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/VoidWalker)
 
-## 🎯 **Dank's Github Stats**
-![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
+## 🎯 **VOIDWALKER's Github Stats**
+![VOIDWALKER's github stats](https://github-readme-stats.vercel.app/api?username=VOIDWALKERKEK&show_icons=true&theme=tokyonight)
 
-## 💻 **Languages I fuck around with.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
-## 🎵 **Crap I listen to, on Spotify.**
+## 🎵 **STUFF I listen to, on Spotify.**
 ![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
