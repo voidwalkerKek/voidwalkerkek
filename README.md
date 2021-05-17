@@ -1,16 +1,19 @@
-### Hi there 👋
+![colorless](https://telegra.ph/file/e844c0fd73203977cc1d7.jpg)
 
-<!--
-**voidwalkerKek/voidwalkerkek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Dank-del <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+[![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del)                                                                                                                  
+- Some of my works include [EsseX](https://github.com/Dank-del/EsseX), [Chizuru](https://github.com/Dank-del/Chizuru) ...
+- I’m currently learning [Python](https://python.org) and [C#](https://github.com/dotnet/csharplang)
+- Stuff I like: Anime, Manga, Music and Video Production.
 
-Here are some ideas to get you started:
+![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dank_as_fuck)
+![Gmail Badge](https://img.shields.io/badge/-chizuru@kanojo.tk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chizuru@kanojo.tk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 **Dank's Github Stats**
+![Dank's github stats](https://github-readme-stats.vercel.app/api?username=Dank-del&show_icons=true&theme=tokyonight)
+
+## 💻 **Languages I fuck around with.**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
+## 🎵 **Crap I listen to, on Spotify.**
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
