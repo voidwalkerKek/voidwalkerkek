@@ -12,5 +12,5 @@
 ![VOIDWALKER's github stats](https://github-readme-stats.vercel.app/api?username=VOIDWALKERKEK&show_icons=true&theme=tokyonight)
 
 
-## 🎵 **STUFF I listen to, on Spotify.**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qzo8sk85ihw4i4fhunrtzu203&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+## 🎵 **Songs I listen to, on Spotify.**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qzo8sk85ihw4i4fhunrtzu203&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
