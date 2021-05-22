@@ -13,4 +13,4 @@
 
 
 ## 🎵 **STUFF I listen to, on Spotify.**
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31fdrsslnr7nvq4ytqwtw7c4rxfm&count=5)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qzo8sk85ihw4i4fhunrtzu203&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
