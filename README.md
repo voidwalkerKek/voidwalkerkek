@@ -13,4 +13,4 @@
 
 
 ## 🎵 **Songs I listen to, on Spotify.**
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=qzo8sk85ihw4i4fhunrtzu203&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=qzo8sk85ihw4i4fhunrtzu203&cover_image=true&theme=natemoo-re)]]
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=qzo8sk85ihw4i4fhunrtzu203&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=qzo8sk85ihw4i4fhunrtzu203&cover_image=true&theme=novatorem)]]
