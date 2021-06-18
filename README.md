@@ -1,4 +1,4 @@
-![red](https://telegra.ph/file/3ad4989b2934e7caabb4f.jpg)
+![red](https://telegra.ph/file/8cb7567aa4e708746d007.jpg)
 
 # Hi there, I'm VoidWalker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 [![Profile views](https://gpvc.arturio.dev/voidwalkerkek)](https://github.com/voidwalkerkek)                                                                                                                  
